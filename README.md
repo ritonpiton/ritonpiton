@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I’m Margarita Aksutina</h1>
 <h2 align="center">💖 Welcome to my GitHub profile 💖</h2>
 <h3>Stats</h3>
-<img src="https://c.tenor.com/fHYbH4MUiggAAAAC/inosuke-kimetsu-no-yaiba.gif" alt="gif" width="380" align="right">
+<img src="https://c.tenor.com/fHYbH4MUiggAAAAC/inosuke-kimetsu-no-yaiba.gif" alt="gif" width="360" align="right">
 <a href="https://github.com/ritonpiton/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ritonpiton" alt="Anurag's GitHub stats"></a>
 <hr>
 <h3>Knowledge</h3>
